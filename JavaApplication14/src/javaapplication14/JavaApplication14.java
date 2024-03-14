@@ -14,9 +14,12 @@ public class JavaApplication14 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         JFrame1 mn = new JFrame1 ();
         mn.setVisible(true);
+
+        System.out.println("Âàíÿ ñîëíûøêî");
+ 
     }
     
 }
